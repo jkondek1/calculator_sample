@@ -1,7 +1,7 @@
 from counting import get_count
 
 def ask_user():
-    print('original number:')
+    print('Hello. This is an awesome calculator. Input a number:')
     number = int(input())
     print('divisor')
     is_correct = False
